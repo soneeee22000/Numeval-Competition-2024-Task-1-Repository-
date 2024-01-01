@@ -91,8 +91,5 @@ from sklearn.model_selection import KFoldkf = KFold(n_splits=10,random_state=200
 
 (4) Task: QQA
 We follow [3] to separate the dataset into training, development, and test sets.
-
-Reference:
-[1] Chen, Chung-Chi, et al. "Numeracy-600K: Learning numeracy for detecting exaggerated information in market comments." Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. 2019.[2] Ravichander, Abhilasha, et al. "EQUATE: A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference." Proceedings of the 23rd Conference on Computational Natural Language Learning (CoNLL). 2019.[3] Mishra, Swaroop, et al. "NumGLUE: A Suite of Fundamental yet Challenging Mathematical Reasoning Tasks." Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics. 2022
 ---
 I will be uploading everything related to the competition here! all the code, all the theory and papers that I read and the findings! If we won this competition, I will expand these results and findings to my Masters' Thesis ! I hope we win but, it's always about Trying our best ! Of Course! 
